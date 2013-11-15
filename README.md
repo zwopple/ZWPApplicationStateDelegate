@@ -34,7 +34,7 @@ Now listen in on the application state:
 
 ## Installation
 
-Add `pod 'ZWPApplicationStateDelegate'` to your `Podfile` and then run `pod install`.
+Add `pod 'ZWPApplicationStateDelegate', :git => 'https://github.com/zwopple/ZWPApplicationStateDelegate'` to your `Podfile` and then run `pod install`.
 
 ## License
 
